@@ -11,3 +11,9 @@ With resources modify the blank window.
 x:
 `ClearColor()` changes clear color
 `WindowDescriptor {}` changes window parameters
+
+ Loading a tileset with a system:
+you need a mutable Commands parameter for function for it to be a system, to create the system use [[Loading tileset]]
+
+Then you can spawn a player (sprite) [[Spawning a sprite]]
+The same for a camera [[Spawning a camera]]

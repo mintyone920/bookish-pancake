@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ca5a51b697ac6c06",
+        "id": "d0900856ba780a39",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "First app.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -86,9 +87,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca5a51b697ac6c06",
+  "active": "d0900856ba780a39",
   "lastOpenFiles": [
     "First app.md",
+    "Spawning a camera.md",
+    "Loading tileset.md",
+    "Spawning a sprite.md",
+    "Ex.md",
     "ECS.md",
     "test.md"
   ]

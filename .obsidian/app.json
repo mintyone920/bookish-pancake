@@ -1,5 +1,12 @@
 {
   "showLineNumber": true,
   "spellcheck": true,
-  "vimMode": true
+  "vimMode": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "lt"
+  ],
+  "alwaysUpdateLinks": true
 }
